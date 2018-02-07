@@ -1,0 +1,17 @@
+{
+  "name": "uabanksbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.py",
+  "scripts": {
+    "start": "python main.py",
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "Flask": "^0.12.2",
+    "Flask-SSLify": "^0.1.5",
+    "requests": "^2.18.4",
+    "pyTelegramBotAPI": "^3.5.1"
+  }
+}
