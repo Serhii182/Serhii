@@ -6,6 +6,9 @@
   "scripts": {
     "start": "python main.py",
   },
+  "engines": {
+    "python": "3.6.2"
+  },
   "author": "",
   "license": "ISC",
   "dependencies": {
