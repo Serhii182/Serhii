@@ -1,4 +1,4 @@
-aiohttp==2.3.6
+aiohttp==3.7.4
 async-timeout==2.0.0
 automium==0.2.6
 automium-web==0.1.1
